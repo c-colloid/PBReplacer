@@ -1,0 +1,20 @@
+{
+  "name": "com.colloid.pbreplacer",
+  "version": "1.1.0",
+  "displayName": "PBReplacer",
+  "description": "This tool rearranges the hierarchy of PhysBone components and converts them into a one-object=one-component format to simplify editing.",
+  "unity": "2019.4",
+  "gitDependencies":{
+     "com.vrchat.base":"https://github.com/vrchat/com.vrchat.base.git",
+     "com.vrchat.avatars":"https://github.com./vrchat/com.vrchat.avatars.git"
+  },
+  "keywords": [
+    "PhysBones",
+    "VRChatSDK"
+  ],
+  "author": {
+    "name": "colloid",
+    "url": "https://twitter.com/C_Colloid"
+  },
+  "type": "tool"
+}
